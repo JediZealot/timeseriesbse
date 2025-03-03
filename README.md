@@ -4,6 +4,7 @@ Time Series analysis of Bombay Stock Exchange data for 30 Stocks
 The SP BSE SENSEX (SP Bombay Stock Exchange Sensitive Index), also called the BSE 30 or simply the SENSEX, is a free-float market-weighted stock market index of 30 well-established and financially sound companies listed on Bombay Stock Exchange. The 30 component companies which are some of the largest and most actively traded stocks, are representative of various industrial sectors of the Indian economy. This dataset contains the data about these 30 stocks for 10 years starts from 06/05/2008 to 04/05/2018 .
 
 In this R script we impute, analyze and visualize the time series data for some Stocks
+Note that the data we use here is Stock data and can never be predicted accurately due to highly complex patterns. This is to only demonstrate time series modeling in R.
 
 Some Visualizations from the script:
 
