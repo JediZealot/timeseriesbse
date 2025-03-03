@@ -5,8 +5,11 @@ The SP BSE SENSEX (SP Bombay Stock Exchange Sensitive Index), also called the BS
 
 In this R script we impute, analyze and visualize the time series data for some Stocks.
 
-**Important**
+**[Important]**
+
 Note that the data we use here is Stock data and can never be predicted accurately due to highly complex patterns. This is to only demonstrate time series modeling in R.
+
+I acknowledge the use of generative AI for addressing my doubts over fitting a better model to time series data like ETS, ARIMA etc.
 
 Some Visualizations from the script:
 
